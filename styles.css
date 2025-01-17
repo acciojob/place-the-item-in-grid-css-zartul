@@ -2,9 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	display:grid;
-	grid-template-rowa:repeat(2,100px);
-	grid-template-columns:repeat(2,100px);
-	/* border:1px solid black; */
+	grid-template-rowa:100px 100px;
+	grid-template-columns:100px 100px;
 }
 .item{
 	border:1px solid black;

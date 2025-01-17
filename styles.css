@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 .holder{
 	display:grid;
-	grid-template-rowa:100px 100px;
+	grid-template-rows:100px 100px;
 	grid-template-columns:100px 100px;
 }
 .item{
